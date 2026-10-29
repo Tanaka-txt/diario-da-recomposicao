@@ -152,4 +152,4 @@ O `index.html` inclui o [morphdom](https://github.com/patrick-steele-idem/morphd
 
 ---
 
-Feito por **Júlio César Tanaka Vergamini** · [LinkedIn](https://www.linkedin.com/in/juliocesartanaka) · [GitHub](https://github.com/Tanaka-txt)
+Feito por **Dev.Tanaka** · [LinkedIn](https://www.linkedin.com/in/juliocesartanaka) · [GitHub](https://github.com/Tanaka-txt)
