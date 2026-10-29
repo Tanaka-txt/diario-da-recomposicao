@@ -146,7 +146,7 @@ O plano de treino e as metas foram montados para mim. Isto não é orientação 
 
 ## Licença
 
-[MIT](LICENSE) © 2026 Júlio César Tanaka Vergamini.
+[MIT](LICENSE) © 2026 Dev.Tanaka.
 
 O `index.html` inclui o [morphdom](https://github.com/patrick-steele-idem/morphdom), também sob licença MIT ([licenses/morphdom-LICENSE.txt](licenses/morphdom-LICENSE.txt)). A fonte Barlow vem do Google Fonts, sob a SIL Open Font License.
 
