@@ -1,0 +1,14 @@
+{
+  "name": "diario-da-recomposicao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Diário de treino e alimentação para um ciclo de 12 semanas de recomposição corporal.",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  },
+  "license": "MIT"
+}
